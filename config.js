@@ -17,14 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      {
-
-    host: "lava-v3.ajieblogs.eu.org",
+        host: "lava-v3.ajieblogs.eu.org",
     port: 80,
     password: "https://dsc.gg/ajidevserver",
     secure: false
-
-  }
-    }
+     }
   ]
 
