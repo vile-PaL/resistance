@@ -15,12 +15,10 @@ module.exports = {
   SupportServer: "https://discord.gg/xQF9f9yUEM",
   embedTimeout: 5, 
   errorLog: "", 
-  nodes: [
-     {
+  nodes: {
         host: "lava-v3.ajieblogs.eu.org",
     port: 80,
     password: "https://dsc.gg/ajidevserver",
     secure: false
      }
-  ]
 
