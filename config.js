@@ -19,7 +19,7 @@ module.exports = {
      {
       name: "user_1275893.abc49b8d",
       password: "OAReMDxhogSD4gHJqisy92qDrH_Ezp1T",
-      host: "zen.lemehost.com",
+      host: "https://zen.lemehost.com",
       port:  2022,
       secure: false
     }
