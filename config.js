@@ -17,11 +17,14 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "CodeX",
-      password: "CodeX",
-      host: "in1.hexra.cloud",
-      port:  19154,
-      secure: false
+      {
+
+    host: "lava-v3.ajieblogs.eu.org",
+    port: 80,
+    password: "https://dsc.gg/ajidevserver",
+    secure: false
+
+  }
     }
   ]
 }
