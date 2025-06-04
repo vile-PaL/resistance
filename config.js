@@ -16,13 +16,14 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-     {
+
+    {
       name: "GlaceYT",
-      password: "km54928",
-      host: "193.226.78.187",
-      port:  7967,
+      password: "glaceyt",
+      host: "5.39.63.207",
+      port:  8262,
       secure: false
     }
-  ]
-}
+         ]
+                }
 
